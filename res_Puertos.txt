@@ -1,0 +1,3 @@
+El puerto 22 Esta abierto
+El puerto 80 Esta abierto
+El puerto 443 Esta abierto

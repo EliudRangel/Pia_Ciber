@@ -1,0 +1,162 @@
+
+Titulo: Sunday Daily Thread: What's everyone working on this week?
+Link: https://www.reddit.com/r/Python/comments/ytmeap/sunday_daily_thread_whats_everyone_working_on/
+Fecha: 2022-11-13T00:00:11+00:00
+Autor: /u/Im__Joseph
+Usuario: https://www.reddit.com/r/Python/t3_ytmeap
+
+Titulo: Tuesday Daily Thread: Advanced questions
+Link: https://www.reddit.com/r/Python/comments/yvgyji/tuesday_daily_thread_advanced_questions/
+Fecha: 2022-11-15T00:00:32+00:00
+Autor: /u/Im__Joseph
+Usuario: https://www.reddit.com/r/Python/t3_yvgyji
+
+Titulo: Flake8 took down the gitlab repository in favor of github
+Link: https://www.reddit.com/r/Python/comments/yvfww8/flake8_took_down_the_gitlab_repository_in_favor/
+Fecha: 2022-11-14T23:15:20+00:00
+Autor: /u/RedTachyon
+Usuario: https://www.reddit.com/r/Python/t3_yvfww8
+
+Titulo: I wrote my first proper Python program!
+Link: https://www.reddit.com/r/Python/comments/yvhhlb/i_wrote_my_first_proper_python_program/
+Fecha: 2022-11-15T00:23:16+00:00
+Autor: /u/camel-cultist
+Usuario: https://www.reddit.com/r/Python/t3_yvhhlb
+
+Titulo: I made a CLI tool that helps you stay up to date with reddit, Twitter and Spotify (adding more integrations)
+Link: https://www.reddit.com/r/Python/comments/yv2nie/i_made_a_cli_tool_that_helps_you_stay_up_to_date/
+Fecha: 2022-11-14T15:26:25+00:00
+Autor: /u/igor-26
+Usuario: https://www.reddit.com/r/Python/t3_yv2nie
+
+Titulo: How to Create Python Packages for Sharing Code and Installing with pip
+Link: https://www.reddit.com/r/Python/comments/yvayu1/how_to_create_python_packages_for_sharing_code/
+Fecha: 2022-11-14T20:06:10+00:00
+Autor: /u/mjmacarty
+Usuario: https://www.reddit.com/r/Python/t3_yvayu1
+
+Titulo: Python scripts for global watershed delineation
+Link: https://www.reddit.com/r/Python/comments/yutnex/python_scripts_for_global_watershed_delineation/
+Fecha: 2022-11-14T09:12:59+00:00
+Autor: /u/matthew_h
+Usuario: https://www.reddit.com/r/Python/t3_yutnex
+
+Titulo: What is the best tool for moving Python code and updating all the imports?
+Link: https://www.reddit.com/r/Python/comments/yv14cv/what_is_the_best_tool_for_moving_python_code_and/
+Fecha: 2022-11-14T14:32:37+00:00
+Autor: /u/CowboyBoats
+Usuario: https://www.reddit.com/r/Python/t3_yv14cv
+
+Titulo: pac-hunter: A US election finance utility to search donations from specific PACs to candidates of interest, using OpenFEC
+Link: https://www.reddit.com/r/Python/comments/yunh5v/pachunter_a_us_election_finance_utility_to_search/
+Fecha: 2022-11-14T03:22:10+00:00
+Autor: /u/logs28
+Usuario: https://www.reddit.com/r/Python/t3_yunh5v
+
+Titulo: Open-source SOTA Solution for Portrait and Human Segmentation (5.7k stars)
+Link: https://www.reddit.com/r/Python/comments/yuww41/opensource_sota_solution_for_portrait_and_human/
+Fecha: 2022-11-14T11:45:51+00:00
+Autor: /u/EldDap
+Usuario: https://www.reddit.com/r/Python/t3_yuww41
+
+Titulo: I rewrote the Spotify API Quickstart using FastAPI
+Link: https://www.reddit.com/r/Python/comments/yv6jpu/i_rewrote_the_spotify_api_quickstart_using_fastapi/
+Fecha: 2022-11-14T17:35:53+00:00
+Autor: /u/CaminoFr
+Usuario: https://www.reddit.com/r/Python/t3_yv6jpu
+
+Titulo: TLSPYO: A small library for easy and safe transfer of python objects over network
+Link: https://www.reddit.com/r/Python/comments/yvecs9/tlspyo_a_small_library_for_easy_and_safe_transfer/
+Fecha: 2022-11-14T22:13:02+00:00
+Autor: /u/yannbouteiller
+Usuario: https://www.reddit.com/r/Python/t3_yvecs9
+
+Titulo: Why doesn't this snippet return an error despite a type mismatch?
+Link: https://www.reddit.com/r/Python/comments/yvmwzl/why_doesnt_this_snippet_return_an_error_despite_a/
+Fecha: 2022-11-15T04:35:10+00:00
+Autor: /u/darkweb10052003
+Usuario: https://www.reddit.com/r/Python/t3_yvmwzl
+
+Titulo: CLI to lint Jenkinsfiles I hope it will help a lot of devOps saving time to validate Jenkinsfiles
+Link: https://www.reddit.com/r/Python/comments/yvgyaf/cli_to_lint_jenkinsfiles_i_hope_it_will_help_a/
+Fecha: 2022-11-15T00:00:17+00:00
+Autor: /u/obvervateur
+Usuario: https://www.reddit.com/r/Python/t3_yvgyaf
+
+Titulo: Hexagonal architecture in Python
+Link: https://www.reddit.com/r/Python/comments/yusgzs/hexagonal_architecture_in_python/
+Fecha: 2022-11-14T08:00:14+00:00
+Autor: /u/szymonmiks
+Usuario: https://www.reddit.com/r/Python/t3_yusgzs
+
+Titulo: How Python chooses a MAC address for UUIDv1
+Link: https://www.reddit.com/r/Python/comments/yvchlp/how_python_chooses_a_mac_address_for_uuidv1/
+Fecha: 2022-11-14T21:00:59+00:00
+Autor: /u/csanders_
+Usuario: https://www.reddit.com/r/Python/t3_yvchlp
+
+Titulo: How to handle version control for beginner developers?
+Link: https://www.reddit.com/r/Python/comments/yvka8l/how_to_handle_version_control_for_beginner/
+Fecha: 2022-11-15T02:29:21+00:00
+Autor: /u/roooneytoons
+Usuario: https://www.reddit.com/r/Python/t3_yvka8l
+
+Titulo: ligoogle: a simple way to view google results on a terminal
+Link: https://www.reddit.com/r/Python/comments/yufbto/ligoogle_a_simple_way_to_view_google_results_on_a/
+Fecha: 2022-11-13T21:42:36+00:00
+Autor: /u/Ok-Ordinary-5071
+Usuario: https://www.reddit.com/r/Python/t3_yufbto
+
+Titulo: Strapi Equivalent with Python backend
+Link: https://www.reddit.com/r/Python/comments/yv7z67/strapi_equivalent_with_python_backend/
+Fecha: 2022-11-14T18:23:25+00:00
+Autor: /u/futureisopen
+Usuario: https://www.reddit.com/r/Python/t3_yv7z67
+
+Titulo: Sanic vs Starlite
+Link: https://www.reddit.com/r/Python/comments/yvivhf/sanic_vs_starlite/
+Fecha: 2022-11-15T01:25:51+00:00
+Autor: /u/No-Camp3858
+Usuario: https://www.reddit.com/r/Python/t3_yvivhf
+
+Titulo: Search/Spell algorithm in cyhunspell library
+Link: https://www.reddit.com/r/Python/comments/yuwc0i/searchspell_algorithm_in_cyhunspell_library/
+Fecha: 2022-11-14T11:21:08+00:00
+Autor: /u/David28008
+Usuario: https://www.reddit.com/r/Python/t3_yuwc0i
+
+Titulo: Is "Python X" a good tool to start learining Python?
+Link: https://www.reddit.com/r/Python/comments/yvdw14/is_python_x_a_good_tool_to_start_learining_python/
+Fecha: 2022-11-14T21:55:04+00:00
+Autor: /u/JuanxO_o
+Usuario: https://www.reddit.com/r/Python/t3_yvdw14
+
+Titulo: Iterating over a list, creation of a dataframe with numpy
+Link: https://www.reddit.com/r/Python/comments/yuxtfj/iterating_over_a_list_creation_of_a_dataframe/
+Fecha: 2022-11-14T12:25:33+00:00
+Autor: /u/Overall-Sky-613
+Usuario: https://www.reddit.com/r/Python/t3_yuxtfj
+
+Titulo: Simple labyrinth text game (Beginner in Python)
+Link: https://www.reddit.com/r/Python/comments/yv4el2/simple_labyrinth_text_game_beginner_in_python/
+Fecha: 2022-11-14T16:25:46+00:00
+Autor: /u/Drkz98
+Usuario: https://www.reddit.com/r/Python/t3_yv4el2
+
+Titulo: Xabadia's vocabulary trainer
+Link: https://www.reddit.com/r/Python/comments/yuum32/xabadias_vocabulary_trainer/
+Fecha: 2022-11-14T10:00:21+00:00
+Autor: /u/Xabadiar
+Usuario: https://www.reddit.com/r/Python/t3_yuum32
+
+Titulo: py-template: one-click extensive GitHub Actions pipelines for your Python projects!
+Link: https://www.reddit.com/r/Python/comments/yu4ynu/pytemplate_oneclick_extensive_github_actions/
+Fecha: 2022-11-13T15:33:49+00:00
+Autor: /u/szymonmaszke
+Usuario: https://www.reddit.com/r/Python/t3_yu4ynu
+
+Titulo: Mastodon instances for Python developers?
+Link: https://www.reddit.com/r/Python/comments/yu7shw/mastodon_instances_for_python_developers/
+Fecha: 2022-11-13T17:16:59+00:00
+Autor: /u/t0uxe
+Usuario: https://www.reddit.com/r/Python/t3_yu7shw
